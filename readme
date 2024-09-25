@@ -5,6 +5,9 @@ The image of circuit file is attached.
 
 The code is also provided.
 The text file provides the arduino code needed to run the robot.
+DISCLAIMER--
+//In order to run the code you need to put the .ino file in a folder which has the same name as the file.//
+//Otherwise it won't run.//
 
 DEVICES USED-
 1)1 Arduino Uno
@@ -13,7 +16,5 @@ DEVICES USED-
 4)1 Motor Regulator
 5)Chassis
 6)12V Battery
-
-
 
 NOTE - This was done under a project in IIT Bhilai Epsilon Club Introductory Workshop 2024-25.
