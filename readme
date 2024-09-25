@@ -4,5 +4,16 @@ C++ is used to create this robot along with some basic knowledge of Arduino IDE.
 The image of circuit file is attached.
 
 The code is also provided.
+The text file provides the arduino code needed to run the robot.
+
+DEVICES USED-
+1)1 Arduino Uno
+2)2 motors
+3)2 wheels
+4)1 Motor Regulator
+5)Chassis
+6)12V Battery
+
+
 
 NOTE - This was done under a project in IIT Bhilai Epsilon Club Introductory Workshop 2024-25.
